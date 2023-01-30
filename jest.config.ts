@@ -1,3 +1,5 @@
+import { pathsToModuleNameMapper } from 'ts-jest';
+
 export default {
   moduleFileExtensions: ['js', 'json', 'ts'],
   rootDir: 'src',
